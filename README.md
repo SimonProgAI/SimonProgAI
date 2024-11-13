@@ -1,8 +1,8 @@
 # Contact 
 Simon Lupien<br/>
 lupiensimon@hotmail.com<br/>
-954-644-0412
-https://www.facebook.com/simon.lupien
+954-644-0412<br/>
+https://www.facebook.com/simon.lupien<br/>
 https://quickstart.prentus.co/p/simon-lupien
 
 # Currently learning...
@@ -10,18 +10,12 @@ https://quickstart.prentus.co/p/simon-lupien
 -CSS 
 -JavaScript
 -Bootstrap
+-Github
 # Spoken Languages
-* Item 1
-* Item 2
-  * Item 2a
-  * Item
-# Ordered Item
-s
-1. Item 1
-1. Item 2
-   1. Item 2a
-   1. Item 2b
-1. Item 3
+* French
+* English
+# My Youtbe
+
 # Table
 Color | RGB | Comment
 ------|-----|--------
