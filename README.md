@@ -1,14 +1,16 @@
-# Contact Information
-Simon Lupien
-*klarson@larsonipl.com*<br/>
-972-740-4582
-# Technologies
-- [Java](https://docs.oracle.com/en/java/)
-- Javascript
-- HTML
-- [Python](https://docs.python.org/3/)
-- Ruby
-# UnOrdered Items
+# Contact 
+Simon Lupien<br/>
+lupiensimon@hotmail.com<br/>
+954-644-0412
+https://www.facebook.com/simon.lupien
+https://quickstart.prentus.co/p/simon-lupien
+
+# Currently learning...
+-HTML 
+-CSS 
+-JavaScript
+-Bootstrap
+# Spoken Languages
 * Item 1
 * Item 2
   * Item 2a
