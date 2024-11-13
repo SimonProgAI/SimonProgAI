@@ -1,5 +1,5 @@
 # Contact Information
-**Karl Larson _yeah baby_**<br/>
+Simon Lupien
 *klarson@larsonipl.com*<br/>
 972-740-4582
 # Technologies
