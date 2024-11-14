@@ -26,9 +26,9 @@ Now living in Texas.<br/>
 <!-- sub menu with UL for spoken and written out of 5 -->
 
 # My work Experience
-year | employer | position | skills 
-------|-----|--------
-red | 0xff0000 | don't like it
+year | employer | position | skills |
+------|-----|--------|-----|
+2022-now | Arlington ISD | French and Piano teacher | Managing large groups of students, short and long term planning |
 blue | 0x00ff00 | kinda like it
 green | 0x0000ff | my color
 
