@@ -12,11 +12,11 @@ I'm currently based in Texas, but I'm originally from Québec, Canada.
 <!--Change the size of the picture-->
 
 ## 🌱 I’m currently learning ...
--HTML<br/> 
--CSS<br/>
--JavaScript<br/>
--Bootstrap<br/>
--Github<br/>
+*HTML<br/> 
+*CSS<br/>
+*JavaScript<br/>
+*Bootstrap<br/>
+*Github<br/>
 
 ## Spoken Languages
 * French<br/>
@@ -27,14 +27,14 @@ I'm currently based in Texas, but I'm originally from Québec, Canada.
 # My work Experience
 Year | Employer | Position | Skills |
 ------|-----|--------|-----|
-**2022-now** | *Arlington ISD* | French & Piano Teacher | -Managed large groups of students.<br/>-Planned for short and long term learning aligned to standards.<br/>-Optimized and prioritized tasks.<br/>-Implemented use of technology in language education.|
+**2022-now** | *Arlington ISD* | French & Piano Teacher | *Managed large groups of students.<br/>-Planned for short and long term learning aligned to standards.<br/>-Optimized and prioritized tasks.<br/>-Implemented use of technology in language education.|
 **2016-2020** | *Carnival Cruise Line* | Music Director & Showband Musician | Managed teams of 15-20 musicians.<br/>-Coached team members for professional development.<br/>-Learned how to handle difficult professional conversations.<br/>-Planned and conducted long rehearsals.<br/>-Worked 40 to 70 hours per week, holding both performance and managerial positions.<br/>-Attended and prepared for 15-20 monthly rehearsals. |
 **2014-2015** | *Diva Hotel (Bahrain) & Regent Palace Hotel (Dubai)* | Showband Musician | -Maintained rigorous late night work and early morning rehearsal schedule.<br/>-Punctually prepared and attended 12-15 rehearsals monthly.|
 
 # 🎓Education
 Year | Institution | Degree
 ------|-----|--------
-**2024-2025** | UTA - QuickStart | Coding Bootcamp in Software Engineering
+**2024-2025** | UTA - QuickStart | Bootcamp in Software Engineering
 **2020-2022** | Texas Teachers of Tomorrow | Teaching Certificate
 **2010-2014** | Université de Montréal | Bachelor of Music - Composition
 **2006-2010** | Université de Sherbrooke | Bachelor of Music - Performance
