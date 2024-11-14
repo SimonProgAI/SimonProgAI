@@ -1,20 +1,21 @@
 # Contact 
 Simon Lupien<br/>
-lupiensimon@hotmail.com<br/>
 954-644-0412<br/>
+lupiensimon@hotmail.com<br/>
+https://www.youtube.com/@TheProgKeyboardist<br/>
 https://www.facebook.com/simon.lupien<br/>
 https://quickstart.prentus.co/p/simon-lupien
 
 # Currently learning...
--HTML 
--CSS 
--JavaScript
--Bootstrap
--Github
+-HTML<br/> 
+-CSS<br/>
+-JavaScript<br/>
+-Bootstrap<br/>
+-Github<br/>
 # Spoken Languages
-* French
-* English
-# My Youtbe
+* French<br/>
+* English<br/>
+
 
 # Table
 Color | RGB | Comment
