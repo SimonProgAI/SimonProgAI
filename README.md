@@ -1,6 +1,6 @@
 # Hi there 👋
 My name is Simon Lupien. I'm a student programmer, French & music teacher and professional keyboardist.<br/>
-Currently based in Texas. Originally from Québec, Canada.
+I'm currently based in Texas, but I'm originally from Québec, Canada.
 
 ## 📫 How to reach me: ...
 📞954-644-0412<br/>
