@@ -28,9 +28,9 @@ Now living in Texas.<br/>
 # My work Experience
 year | employer | position | skills |
 ------|-----|--------|-----|
-2022-now | Arlington ISD | French and Piano teacher | Managing large groups of students, short and long term planning |
-blue | 0x00ff00 | kinda like it
-green | 0x0000ff | my color
+**2022-now** | Arlington ISD | French & Piano teacher | Managed large groups of students<br/>Planned for short and long term learning aligned to standards<br/>optimized and prioritized tasks<br/>implemented use of technology in language education.|
+**2016-2020** | *Carnival Cruise Line* | Music Director & Showband Musician | Managed teams of 15-20 musicians.<br/>Coached team members for professional development.<br/>Learned how to handle difficult professional conversations<br/>Planned and conducted long rehearsals.<br/>Worked 40 to 70 hours per week, holding both performance and managerial positions<br/>Attended and prepared for 15-20 monthly rehearsals. |
+**2014-2015** | *Diva Hotel (Bahrain) & Regent Palace Hotel (Dubai)* | Showband Musician | Managed teams of 15-20 musicians.<br/>Coached team members for professional development.<br/>Learned how to handle difficult professional conversations<br/>Planned and conducted long rehearsals.<br/>Worked 40 to 70 hours per week, holding both performance and managerial positions<br/>Attended and prepared for 15-20 monthly rehearsals.  |
 
 # 🎓Education
 year | school | diploma
