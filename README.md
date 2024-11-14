@@ -27,7 +27,7 @@ I'm currently based in Texas, but I'm originally from Québec, Canada.
 # My work Experience
 Year | Employer | Position | Skills |
 ------|-----|--------|-----|
-**2022-now** | *Arlington ISD* | French & Piano Teacher | * Managed large groups of students.<br/>-Planned for short and long term learning aligned to standards.<br/>* Optimized and prioritized tasks.<br/>* Implemented use of technology in language education.|
+**2022-now** | *Arlington ISD* | French & Piano Teacher |* Managed large groups of students.<br/>* Planned for short and long term learning aligned to standards.<br/>* Optimized and prioritized tasks.<br/>* Implemented use of technology in language education.|
 **2016-2020** | *Carnival Cruise Line* |* Music Director & Showband Musician |* Managed teams of 15-20 musicians.<br/>* Coached team members for professional development.<br/>* Learned how to handle difficult professional conversations.<br/>* Planned and conducted long rehearsals.<br/>* Worked 40 to 70 hours per week, holding both performance and managerial positions.<br/>* Attended and prepared for 15-20 monthly rehearsals. |
 **2014-2015** | *Diva Hotel (Bahrain) & Regent Palace Hotel (Dubai)* | Showband Musician | * Maintained rigorous late night work and early morning rehearsal schedule.<br/>* Punctually prepared and attended 12-15 rehearsals monthly.|
 
