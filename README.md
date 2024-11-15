@@ -11,6 +11,13 @@ I'm currently based in Texas, but I'm originally from Québec, Canada.
 ![385986349-8e88f458-a8db-4c23-b260-d97700c91df4](https://github.com/user-attachments/assets/da6d8469-e26c-43a7-9102-d5584b988578)
 <!--Change the size of the picture-->
 
+# Portfolio
+<!-- Create a list with bogus links, for now -->
+<a href="https://google.com" target="_blank">My personal website<a/>
+<a href="https://google.com" target="_blank">Super Awesome Project 1<a/>
+<a href="https://google.com" target="_blank">Super Awesome Project 2<a/>
+<a href="https://google.com" target="_blank">Super Awesome Project 3<a/>
+
 ## 🌱 I’m currently learning ...
 * HTML<br/> 
 * CSS<br/>
@@ -53,6 +60,9 @@ Year | Institution | Degree
 # Portfolio
 <!-- Create a list with bogus links, for now -->
 <a href="https://google.com" target="_blank">My personal website<a/>
+<a href="https://google.com" target="_blank">Super Awesome Project 1<a/>
+<a href="https://google.com" target="_blank">Super Awesome Project 2<a/>
+<a href="https://google.com" target="_blank">Super Awesome Project 3<a/>
 
 
 
