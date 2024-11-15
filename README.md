@@ -52,7 +52,7 @@ Year | Institution | Degree
 
 # Portfolio
 <!-- Create a list with bogus links, for now -->
-<a href="https://google.com target="_blank>My personal website<a/>
+<a href="https://google.com" target="_blank">My personal website<a/>
 
 
 
