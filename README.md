@@ -1,4 +1,4 @@
-# Hi there 👋
+ # Hi there 👋
 My name is Simon Lupien. I'm a student programmer, French & music teacher and professional keyboardist.<br/>
 I'm currently based in Texas, but I'm originally from Québec, Canada.
 
@@ -52,6 +52,7 @@ Year | Institution | Degree
 
 # Portfolio
 <!-- Create a list with bogus links, for now -->
+<a href="https://google.com target="_blank>My personal website<a/>
 
 
 
