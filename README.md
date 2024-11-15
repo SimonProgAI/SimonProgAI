@@ -1,5 +1,5 @@
  # Hi there 👋
-My name is Simon Lupien. I'm a student programmer, French & music teacher and professional keyboardist.<br/>
+My name is Simon Lupien. I'm a software engineering student, French & music teacher and professional keyboardist.<br/>
 I'm currently based in Texas, but I'm originally from Québec, Canada.
 
 ## 📫 Reach me at ...
