@@ -13,10 +13,10 @@ I'm currently based in Texas, but I'm originally from Québec, Canada.
 
 # Portfolio
 <!-- Create a list with bogus links, for now -->
-<a href="https://google.com" target="_blank">My personal website<a/>
-<a href="https://google.com" target="_blank">Super Awesome Project 1<a/>
-<a href="https://google.com" target="_blank">Super Awesome Project 2<a/>
-<a href="https://google.com" target="_blank">Super Awesome Project 3<a/>
+<a href="https://google.com" target="_blank">My personal website<a/><br/>
+<a href="https://google.com" target="_blank">Super Awesome Project 1<a/><br/>
+<a href="https://google.com" target="_blank">Super Awesome Project 2<a/><br/>
+<a href="https://google.com" target="_blank">Super Awesome Project 3<a/><br/>
 
 ## 🌱 I’m currently learning ...
 * HTML<br/> 
