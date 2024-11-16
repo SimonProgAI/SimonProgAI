@@ -53,8 +53,8 @@ Year | Institution | Degree
 **2020-2022** | Texas Teachers of Tomorrow | Teaching Certificate
 **2010-2014** | Université de Montréal | Bachelor of Music - Composition
 **2006-2010** | Université de Sherbrooke | Bachelor of Music - Performance
-**2004-2006**| Cégep de Sherbrooke | Pre-University degree in Music
-**2004** | Collège du Mont-Sainte-Anne | Highschool Diploma
+**2004-2006**| Cégep de Sherbrooke | Pre-University Degree in Music
+**2004** | Collège du Mont-Sainte-Anne | High School Diploma
 
 
 
