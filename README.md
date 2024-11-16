@@ -41,9 +41,9 @@ My name is Simon Lupien. I'm a software engineering student, French & music teac
 ## 🏢My Work Experience
 Year | Employer | Position | Skills |
 ------|-----|--------|-----|
-**since 2022** | *Arlington ISD* | French & Piano Teacher |* Managed large groups of students.<br/>* Planned for short and long term learning aligned to standards.<br/>* Optimized and prioritized tasks.<br/>* Implemented use of technology in language education.|
-**2016-2020** | *Carnival Cruise Line* |* Music Director & Showband Musician |* Managed teams of 15-20 musicians.<br/>* Coached team members for professional development.<br/>* Learned how to handle difficult professional conversations.<br/>* Planned and conducted long rehearsals.<br/>* Worked 40 to 70 hours per week, holding both performance and managerial positions.<br/>* Attended and prepared for 15-20 monthly rehearsals. |
-**2014-2015** | *Diva Hotel (Bahrain) & Regent Palace Hotel (Dubai)* | Showband Musician | * Maintained rigorous late night work and early morning rehearsal schedule.<br/>* Punctually prepared and attended 12-15 rehearsals monthly.|
+**since 2022** | Arlington ISD | **French & Piano Teacher** | -Managed large groups of students.<br/> -Planned for short and long term learning aligned to standards.<br/> -Optimized and prioritized tasks.<br/> -Implemented use of technology in language education.|
+**2016-2020** | Carnival Cruise Line | **Music Director & Showband Musician** | -Managed teams of 15-20 musicians.<br/> -Coached team members for professional development.<br/> -Learned how to handle difficult professional conversations.<br/> -Planned and conducted 15-20monthly rehearsals.<br/> -Worked 40 to 70 hours per week, holding both performance and managerial positions.<br/>|
+**2014-2015** | Diva Hotel (Bahrain) & Regent Palace Hotel (Dubai) | **Showband Musician** | -Maintained rigorous late night work and early morning rehearsal schedule.<br/> -Punctually prepared and attended 12-15 monthly rehearsals.|
 
 ## 🎓Education
 Year | Institution | Degree
