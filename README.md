@@ -39,7 +39,7 @@ I'm currently based in Texas, but I'm originally from Québec, Canada.
 * English<br/>
 <!-- sub menu with UL for spoken and written out of 5 -->
 
-## 🏢My work Experience
+## 🏢My Work Experience
 Year | Employer | Position | Skills |
 ------|-----|--------|-----|
 **2022-now** | *Arlington ISD* | French & Piano Teacher |* Managed large groups of students.<br/>* Planned for short and long term learning aligned to standards.<br/>* Optimized and prioritized tasks.<br/>* Implemented use of technology in language education.|
