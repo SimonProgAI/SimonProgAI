@@ -1,15 +1,14 @@
  # Hi there 👋
-My name is Simon Lupien. I'm a software engineering student, a French & music teacher, and a professional keyboardist. I'm currently based in Texas, but I'm originally from Québec, Canada.<br/>
+My name is Simon Lupien. I just earned a software engineering bootcamp certificate. I'm also a French & music teacher, and a professional keyboardist. I'm currently based in Texas, but I'm originally from Québec, Canada.<br/>
 ![385986349-8e88f458-a8db-4c23-b260-d97700c91df4](https://github.com/user-attachments/assets/da6d8469-e26c-43a7-9102-d5584b988578)
 <!--Change the size of the picture-->
 
 ## 📫 Reach me at ...
+🌐<a href="www.linkedin.com/in/simon-lupien-22594235a" target="_blank">Linkedin<a/><br/>
+🌐<a href="https://quickstart.prentus.co/p/simon-lupien" target="_blank">Prentus<a/><br/>
+🌐<a href="https://www.facebook.com/simon.lupien" target="_blank">Facebook<a/><br/>
 📞954-644-0412<br/>
 📧lupiensimon@hotmail.com<br/>
-
-🌐<a href="www.linkedin.com/in/simon-lupien-22594235a" target="_blank">linkedin<a/><br/>
-🌐<a href="https://www.facebook.com/simon.lupien" target="_blank">Facebook<a/><br/>
-🌐<a href="https://quickstart.prentus.co/p/simon-lupien" target="_blank">Prentus<a/><br/>
 🎹<a href="https://www.youtube.com/@TheProgKeyboardist" target="_blank">Youtube - The Prog Keyboardist<a/><br/>
 
 ## 🎨Portfolio
@@ -19,11 +18,12 @@ My name is Simon Lupien. I'm a software engineering student, a French & music te
 <a href="https://google.com" target="_blank">Super Awesome Project 3<a/><br/>
 
 ## 🌱 I know ...
+* JavaScript<br/>
+* React.js<br/>
+* Express.js<br/>
+* Bootstrap<br/>
 * HTML<br/> 
 * CSS<br/>
-* JavaScript<br/>
-* Bootstrap<br/>
-* Github<br/>
 
 ## 💻Softwares
 * Microsoft Office<br/> 
