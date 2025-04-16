@@ -13,8 +13,8 @@ My name is Simon Lupien. I just earned a software engineering bootcamp certifica
 
 ## 🎨Portfolio
 <a href="https://google.com" target="_blank">My personal website<a/><br/>
-<a href="https://google.com" target="_blank">Super Awesome Project 1<a/><br/>
-<a href="https://simonprogai.github.io/Giphy_Search_Engine/" target="_blank">Giphy Search Engine<a/><br/>
+<a href="https://simonprogai.github.io/React_ToDo_App/" target="_blank">ToDo App made in React.js<a/><br/>
+<a href="https://simonprogai.github.io/Giphy_Search_Engine/" target="_blank">Giphy Search Engine made in JavaScript and HTML<a/><br/>
 <a href="https://google.com" target="_blank">Super Awesome Project 3<a/><br/>
 
 ## 🌱 I know ...
