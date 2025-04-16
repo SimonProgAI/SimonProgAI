@@ -21,6 +21,7 @@ My name is Simon Lupien. I just earned a software engineering bootcamp certifica
 * JavaScript<br/>
 * React.js<br/>
 * Express.js<br/>
+* MySQL<br/>
 * Bootstrap<br/>
 * HTML<br/> 
 * CSS<br/>
