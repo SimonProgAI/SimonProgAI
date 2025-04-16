@@ -6,6 +6,8 @@ My name is Simon Lupien. I'm a software engineering student, a French & music te
 ## 📫 Reach me at ...
 📞954-644-0412<br/>
 📧lupiensimon@hotmail.com<br/>
+
+🌐<a href="www.linkedin.com/in/simon-lupien-22594235a" target="_blank">linkedin<a/><br/>
 🌐<a href="https://www.facebook.com/simon.lupien" target="_blank">Facebook<a/><br/>
 🌐<a href="https://quickstart.prentus.co/p/simon-lupien" target="_blank">Prentus<a/><br/>
 🎹<a href="https://www.youtube.com/@TheProgKeyboardist" target="_blank">Youtube - The Prog Keyboardist<a/><br/>
@@ -13,10 +15,10 @@ My name is Simon Lupien. I'm a software engineering student, a French & music te
 ## 🎨Portfolio
 <a href="https://google.com" target="_blank">My personal website<a/><br/>
 <a href="https://google.com" target="_blank">Super Awesome Project 1<a/><br/>
-<a href="https://google.com" target="_blank">Super Awesome Project 2<a/><br/>
+<a href="https://simonprogai.github.io/Giphy_Search_Engine/" target="_blank">Giphy Search Engine<a/><br/>
 <a href="https://google.com" target="_blank">Super Awesome Project 3<a/><br/>
 
-## 🌱 I’m currently learning ...
+## 🌱 I know ...
 * HTML<br/> 
 * CSS<br/>
 * JavaScript<br/>
