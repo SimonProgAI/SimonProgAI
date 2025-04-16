@@ -12,10 +12,9 @@ My name is Simon Lupien. I just earned a software engineering bootcamp certifica
 🎹<a href="https://www.youtube.com/@TheProgKeyboardist" target="_blank">Youtube - The Prog Keyboardist<a/><br/>
 
 ## 🎨Portfolio
-<a href="https://google.com" target="_blank">My personal website<a/><br/>
-<a href="https://simonprogai.github.io/React_ToDo_App/" target="_blank">ToDo App made in React.js<a/><br/>
-<a href="https://simonprogai.github.io/Giphy_Search_Engine/" target="_blank">Giphy Search Engine made in JavaScript and HTML<a/><br/>
-<a href="https://google.com" target="_blank">Super Awesome Project 3<a/><br/>
+<a href="https://simonprogai.github.io/React_ToDo_App/" target="_blank">ToDo App<a/><br/>
+<a href="https://simonprogai.github.io/Giphy_Search_Engine/">Giphy Search Engine<a/><br/>
+<a href="https://simonprogai.github.io/Business_Website" target="_blank">Business Website<a/><br/>
 
 ## 🌱 I know ...
 * JavaScript<br/>
