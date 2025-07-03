@@ -12,6 +12,8 @@ My name is Simon Lupien. I just earned a software engineering bootcamp certifica
 🎹<a href="https://www.youtube.com/@TheProgKeyboardist" target="_blank">Youtube - The Prog Keyboardist<a/><br/>
 
 ## 🎨Portfolio
+<a href="https://simonprogai.github.io/hangman_app/" target="_blank">Hangman App<a/><br/>
+<a href="https://simonprogai.github.io/FAQ_app/#/login" target="_blank">FAQ App<a/><br/>
 <a href="https://simonprogai.github.io/React_ToDo_App/" target="_blank">ToDo App<a/><br/>
 <a href="https://simonprogai.github.io/Giphy_Search_Engine/">Giphy Search Engine<a/><br/>
 <a href="https://simonprogai.github.io/Business_Website" target="_blank">Business Website<a/><br/>
@@ -19,20 +21,12 @@ My name is Simon Lupien. I just earned a software engineering bootcamp certifica
 ## 🌱 I know ...
 * JavaScript<br/>
 * React.js<br/>
+* TypeScript<br/>
 * Express.js<br/>
 * MySQL<br/>
 * Bootstrap<br/>
 * HTML<br/> 
 * CSS<br/>
-
-## 💻Softwares
-* Microsoft Office<br/> 
-* Google Drive<br/>
-* Visual Studio Code<br/>
-* Reaper<br/>
-* Sibelius<br/>
-* Finale<br/>
-* Transcribe<br/>
 
 ## 💬Spoken Languages
 * French<br/>
