@@ -1,5 +1,5 @@
  # Hi there 👋
-My name is Simon Lupien. I just earned a software engineering bootcamp certificate. I'm also a French & music teacher, and a professional keyboardist. I'm currently based in Texas, but I'm originally from Québec, Canada.<br/>
+My name is Simon Lupien. I just earned a software engineering bootcamp certificate. Front-end developer with back-end experienvce with a passion for creating dynamic web applications with a solid foundation from Quickstart Software Engineering Bootcamp. Successfully developed responsive frontend and fullstack web apps enhancing user engagement and functionality. Excellent work ethic and daily commitment to the craft of building apps with a specialization in React.js. I'm also a French & music teacher, and a professional keyboardist. I'm currently based in Texas, but I'm originally from Québec, Canada.<br/>
 ![385986349-8e88f458-a8db-4c23-b260-d97700c91df4](https://github.com/user-attachments/assets/da6d8469-e26c-43a7-9102-d5584b988578)
 <!--Change the size of the picture-->
 
