@@ -1,15 +1,20 @@
- # Hi there 👋
-My name is Simon Lupien. I just earned a software engineering bootcamp certificate. Front-end developer with back-end experience with a passion for creating dynamic web applications with a solid foundation from Quickstart Software Engineering Bootcamp. Successfully developed responsive frontend and fullstack web apps enhancing user engagement and functionality. Excellent work ethic and daily commitment to the craft of building apps with a specialization in React.js. I'm also a French & music teacher, and a professional keyboardist. I'm currently based in Texas, but I'm originally from Québec, Canada.<br/>
-![385986349-8e88f458-a8db-4c23-b260-d97700c91df4](https://github.com/user-attachments/assets/da6d8469-e26c-43a7-9102-d5584b988578)
-<!--Change the size of the picture-->
+<h1 align="center">Hi 👋, I'm Simon Lupien</h1>
+<h3 align="center">A frontend developer based in Texas</h3>
+<p align="left">I'm a junior front-end developer with back-end experience and a passion for creating dynamic web applications with a solid foundation from Quickstart Software Engineering Bootcamp. <br><br>
+I'm also a French and music teacher, and a professional keyboardist. I'm currently based in Texas, but I'm originally from Québec, Canada.<br/></p>
 
-## 📫 Reach me at ...
-🌐<a href="www.linkedin.com/in/simon-lupien-22594235a" target="_blank">Linkedin<a/><br/>
-🌐<a href="https://quickstart.prentus.co/p/simon-lupien" target="_blank">Prentus<a/><br/>
-🌐<a href="https://www.facebook.com/simon.lupien" target="_blank">Facebook<a/><br/>
-📞954-644-0412<br/>
-📧lupiensimon@hotmail.com<br/>
-🎹<a href="https://www.youtube.com/@TheProgKeyboardist" target="_blank">Youtube - The Prog Keyboardist<a/><br/>
+- 📫 Email me at **lupiensimon@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/simon-lupien-22594235a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simon-lupien-22594235a/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/simon.lupien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/simon.lupien" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@theprogkeyboardist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@theprogkeyboardist" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/simonprogai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/simonprogai/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ## 🎨Portfolio
 <a href="https://simonprogai.github.io/hangman_app/" target="_blank">Hangman App<a/><br/>
@@ -17,16 +22,6 @@ My name is Simon Lupien. I just earned a software engineering bootcamp certifica
 <a href="https://simonprogai.github.io/React_ToDo_App/" target="_blank">ToDo App<a/><br/>
 <a href="https://simonprogai.github.io/Giphy_Search_Engine/">Giphy Search Engine<a/><br/>
 <a href="https://simonprogai.github.io/Business_Website" target="_blank">Business Website<a/><br/>
-
-## 🌱 I know ...
-* JavaScript<br/>
-* React.js<br/>
-* TypeScript<br/>
-* Express.js<br/>
-* MySQL<br/>
-* Bootstrap<br/>
-* HTML<br/> 
-* CSS<br/>
 
 ## 💬Spoken Languages
 * French<br/>
